@@ -1,0 +1,10 @@
+.env
+site/
+server.log
+.DS_Store
+.impeccable/
+video/.venv/
+video/models/
+video/build/
+video/*.mp4
+video/*.wav
